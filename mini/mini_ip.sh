@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 lastip=$(cat whatismyip.txt)
 ip=$(curl -s http://whatismyip.akamai.com/)
