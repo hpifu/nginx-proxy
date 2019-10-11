@@ -21,3 +21,5 @@ encrypt api.ancient.hatlonely.com
 encrypt tool.hatlonely.com
 encrypt ancient.hatlonely.com
 encrypt game.hatlonely.com
+encrypt api.tech.hatlonely.com
+encrypt tech.hatlonely.com
